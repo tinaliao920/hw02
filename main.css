@@ -1,0 +1,36 @@
+.inner{
+color:#000;
+background:#f8f6bb
+}
+
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    line-height:50px;
+    text-align:center;
+    background:#ffce00;
+}
+.bg1{
+width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#fcfcfc;
+    line-height:50px;
+    text-align:center;
+    background:#ff1d00;
+}
+    
+.rect{
+background:#f8f6bb;
+width:50px;
+height:50px;
+    
+}
